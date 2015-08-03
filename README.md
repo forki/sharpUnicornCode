@@ -1,4 +1,8 @@
+![Travis CI Build](https://img.shields.io/travis/ThrashingCode/UnicornCode.svg)
+
 # Единорог Образцы
+
+https://github.com/fsprojects/ProjectScaffold
 
 Я пытаюсь узнать несколько языков одновременно. Усилия были очень медленно.
 
@@ -20,7 +24,7 @@ The basis of this project will be centered around building, test execution, and 
 
 ## Technologies
 
- * [ProjectScaffold]() |> Using the base ProjectScaffold maintained by [@forki](https://github.com/forki), [@pblasucci](https://github.com/pblasucci), and [@sergey-tihon](https://github.com/sergey-tihon). For more information on the ProjectScaffold check out the [docs site](http://fsprojects.github.io/ProjectScaffold) and follow [@fsprojectsgit](https://github.com/fsprojectsgit).
+ * [ProjectScaffold](https://github.com/fsprojects/ProjectScaffold) |> Using the base ProjectScaffold maintained by [@forki](https://github.com/forki), [@pblasucci](https://github.com/pblasucci), and [@sergey-tihon](https://github.com/sergey-tihon). For more information on the ProjectScaffold check out the [docs site](http://fsprojects.github.io/ProjectScaffold) and follow [@fsprojectsgit](https://github.com/fsprojectsgit).
  * Documentation [documentation based on Markdown files](http://fsprojects.github.io/ProjectScaffold/writing-docs.html)
 
 ## License
