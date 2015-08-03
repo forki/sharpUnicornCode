@@ -1,4 +1,4 @@
-![Travis CI Build](https://img.shields.io/travis/ThrashingCode/UnicornCode.svg)
+![Travis CI Build](https://img.shields.io/travis/ThrashingCode/UnicornCode.svg?style=plastic)
 ![Waffles](https://badge.waffle.io/ThrashingCode/UnicornCode.png)
 
 # Единорог Образцы
