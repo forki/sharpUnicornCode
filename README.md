@@ -2,8 +2,6 @@
 
 # Единорог Образцы
 
-https://github.com/fsprojects/ProjectScaffold
-
 Я пытаюсь узнать несколько языков одновременно. Усилия были очень медленно.
 
 Hittills har jag lärt mig en del ukrainska, svenska och danska. Även om vissa människor säger om jag var smart, skulle jag bara lära sig tyska. Men vad som helst.
